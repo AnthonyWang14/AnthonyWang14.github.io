@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a research fellow in School of Physics and Mathematical Science ()SPMS) at [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/), advised by Prof. Yan Zhenzhen. Prior to that, I completed my PhD at NTU, supervised by Prof. Xiaohui Bei, and graduated with B.E. in computer science and B.S. (double major) in economics at Tsinghua University. Here is my [CV](https://AnthonyWang14.github.io/files/HAOW_CV_08302022.pdf).
+I am a research fellow in School of Physics and Mathematical Science (SPMS) at [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/), advised by Prof. Yan Zhenzhen. Prior to that, I completed my PhD at NTU, supervised by Prof. Xiaohui Bei, and graduated with B.E. in computer science and B.S. (double major) in economics at Tsinghua University. Here is my [CV](https://AnthonyWang14.github.io/files/HAOW_CV_08302022.pdf).
 
 I am interested in online matching and mechanism design.
 
@@ -38,12 +38,16 @@ Re-solving Heuristic in Online Matching with Capacities with Improved Competitiv
 Teaching
 ======
 Time Series Analysis, Teaching Assistant, NTU SPMS, Spring 2021
+
 Probability and Introduction to Statistics, Teaching Assistant, NTU SPMS, Fall 2020
+
 Statistics, Teaching Assistant, NTU SPMS, Spring 2020
 
 
 News
 ======
 Aug 2022: I was selected as AAAI-2023 PC member.
-Aug 2022: I give a talk "A Non-asymptotic Analysis for Re-solving Heuristic in online matching" in International Conference on Continuous Optimization (ICCOPT). Bethlehem, PA, Aug 2022.
+
+Aug 2022: I give a talk "A Non-asymptotic Analysis for Re-solving Heuristic in online matching" in International Conference on Continuous Optimization (ICCOPT), Bethlehem, PA, Aug 2022.
+
 Mar 2022: I give a talk "Real-Time Driver-Request Assignment in Ridesourcing" in Shanghai Jiaotong University.
