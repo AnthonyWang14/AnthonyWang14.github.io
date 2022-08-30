@@ -33,7 +33,7 @@ Strategical Waiting in Dynamic Stochastic Matching with Application in Ridesourc
 
 Fully Online Matching with Stochastic Arrivals and Departures
 
-Re-solving Heuristic in Online Matching with Capacities with Improved Competitive Ratio
+Re-solving in Online Matching with an Improved Non-asymptotic Analysis
 
 Teaching
 ======
