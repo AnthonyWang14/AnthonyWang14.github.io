@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hao Wang (王 豪)"
+title                    : "Hao Wang"
 title_separator          : "-"
 name                     : &name "Hao Wang"
 description              : &description "Research Fellow at NTU"
