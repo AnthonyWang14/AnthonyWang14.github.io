@@ -1,11 +1,10 @@
 ---
 layout: archive
 title: "Sitemap"
-permalink: /
+permalink: /sitemap/
 author_profile: true
 ---
 
-Sorry, but the page you were trying to view does not exist --- perhaps you can go back to the [homepage](https://anthonywang14.github.io/).
 <!-- {% include base_path %}
 
 A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
