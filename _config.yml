@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Hao Wang"
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   bio              : "Research Fellow"
   location         : "Singapore"
   employer         :
