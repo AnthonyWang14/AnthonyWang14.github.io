@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a research fellow in School of Physics and Mathematical Science at [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/), advised by Prof. Yan Zhenzhen. Prior to that, I completed my PhD at NTU, supervised by Prof. Xiaohui Bei, and graduated with B.E. in computer science and B.S. (double major) in economics at Tsinghua University. Here is my [CV](https://github.com/AnthonyWang14/AnthonyWang14.github.io/files/HAOW_CV_08302022.pdf).
+I am a research fellow in School of Physics and Mathematical Science at [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/), advised by Prof. Yan Zhenzhen. Prior to that, I completed my PhD at NTU, supervised by Prof. Xiaohui Bei, and graduated with B.E. in computer science and B.S. (double major) in economics at Tsinghua University. Here is my [CV](https://AnthonyWang14.github.io/files/HAOW_CV_08302022.pdf).
 
 I am interested in online matching and mechanism design.
 
