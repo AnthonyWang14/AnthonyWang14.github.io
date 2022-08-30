@@ -15,8 +15,7 @@ I am interested in online matching and mechanism design.
 
 Contact: mrwang0917[at]gmail.com / hao_wang[at]ntu.edu.sg
 
-
-Publications 
+<!-- Publications 
 ======
 **Wang H**, Yan Z, Bei X. A Non-asymptotic Analysis for Re-solving Heuristic in online matching[J]. Production and
 Operations Management, 2022.
@@ -50,4 +49,4 @@ Aug 2022: I was selected as AAAI-2023 PC member.
 
 Aug 2022: I gave a talk "A Non-asymptotic Analysis for Re-solving Heuristic in online matching" in International Conference on Continuous Optimization (ICCOPT), Bethlehem, PA, Aug 2022.
 
-Mar 2022: I gave a talk "Real-Time Driver-Request Assignment in Ridesourcing" in Shanghai Jiaotong University.
+Mar 2022: I gave a talk "Real-Time Driver-Request Assignment in Ridesourcing" in Shanghai Jiaotong University. -->
