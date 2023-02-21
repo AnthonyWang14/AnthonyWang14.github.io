@@ -17,7 +17,7 @@ Real-Time Driver-Request Assignment in Ridesourcing ([pdf](https://ojs.aaai.org/
 **Hao Wang**, Xiaohui Bei.   
 **AAAI2022**: AAAI Conference on Artificial Intelligence, 2022
 
-A unified framework for community detection and network representation learning ([pdf](https://arxiv.org/pdf/1611.06645.pdf))
+A unified framework for community detection and network representation learning ([pdf](https://arxiv.org/pdf/1611.06645.pdf))  
 Cunchao Tu, Xiangtian Zeng, **Hao Wang**, et al.  
 **TKDE**: IEEE Transactions on Knowledge and Data Engineering, 2018
 
@@ -25,7 +25,7 @@ Working paper
 ======
 
 Sample-Based Online Generalized Assignment Problem with Unknown Poisson Arrivals ([pdf](https://arxiv.org/abs/2302.08234))  
-Zihao Li, **Hao Wang**, Zhenzhen Yan (alphabetical order)
+Zihao Li, **Hao Wang**, Zhenzhen Yan (alphabetical order).
 
 A Distribution-free Algorithm for Fully Online Matching with Stochastic Arrivals and Departures
 ([pdf](https://AnthonyWang14.github.io/files/main_OR.pdf))  
