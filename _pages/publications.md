@@ -4,12 +4,12 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Fully Online Matching with Stochastic Arrivals and Departures (AAAI2023)
+Fully Online Matching with Stochastic Arrivals and Departures (AAAI2023)  
 Zihao Li, **Hao Wang**, Zhenzhen Yan (alphabetical order)
 
 
 A Non-asymptotic Analysis for Re-solving Heuristic in online matching (Production and Operations Management (POMS)
-, [pdf](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13738), [video](https://www.youtube.com/watch?v=1q8gW6LJ68A&t=17s&ab_channel=POMSociety))
+, [pdf](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13738), [video](https://www.youtube.com/watch?v=1q8gW6LJ68A&t=17s&ab_channel=POMSociety))  
 **Hao Wang**, Zhenzhen Yan, Xiaohui Bei
 
 **Wang, H.**, Bei, X. (2022). Real-Time Driver-Request Assignment in Ridesourcing. Proceedings of the AAAI
