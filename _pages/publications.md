@@ -7,7 +7,7 @@ author_profile: true
 
 Fully Online Matching with Stochastic Arrivals and Departures  
 Zihao Li, **Hao Wang**, Zhenzhen Yan (alphabetical order).  
-**AAAI2023**: AAAI Conference on Artificial Intelligence, 2023
+**AAAI2023**: AAAI Conference on Artificial Intelligence, 2023.
 
 A Non-asymptotic Analysis for Re-solving Heuristic in online matching ([pdf](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13738), [video](https://www.youtube.com/watch?v=1q8gW6LJ68A&t=17s&ab_channel=POMSociety))  
 **Hao Wang**, Zhenzhen Yan, Xiaohui Bei.  
@@ -15,11 +15,11 @@ A Non-asymptotic Analysis for Re-solving Heuristic in online matching ([pdf](htt
 
 Real-Time Driver-Request Assignment in Ridesourcing ([pdf](https://ojs.aaai.org/index.php/AAAI/article/view/20299))  
 **Hao Wang**, Xiaohui Bei.   
-**AAAI2022**: AAAI Conference on Artificial Intelligence, 2022
+**AAAI2022**: AAAI Conference on Artificial Intelligence, 2022.
 
 A unified framework for community detection and network representation learning ([pdf](https://arxiv.org/pdf/1611.06645.pdf))  
 Cunchao Tu, Xiangtian Zeng, **Hao Wang**, et al.  
-**TKDE**: IEEE Transactions on Knowledge and Data Engineering, 2018
+**TKDE**: IEEE Transactions on Knowledge and Data Engineering, 2018.
 
 Working paper
 ======
