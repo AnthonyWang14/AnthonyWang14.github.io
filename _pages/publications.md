@@ -4,29 +4,33 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Fully Online Matching with Stochastic Arrivals and Departures (AAAI2023)  
+Fully Online Matching with Stochastic Arrivals and Departures 
 Zihao Li, **Hao Wang**, Zhenzhen Yan (alphabetical order)
+**AAAI 2023**: AAAI Conference on Artificial Intelligence, 2023
 
+A Non-asymptotic Analysis for Re-solving Heuristic in online matching ([pdf](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13738), [video](https://www.youtube.com/watch?v=1q8gW6LJ68A&t=17s&ab_channel=POMSociety))  
+**Hao Wang**, Zhenzhen Yan, Xiaohui Bei.  
+**POMS**: Production and Operations Management, 31(8): 3096-3124. 2022.
 
-A Non-asymptotic Analysis for Re-solving Heuristic in online matching (Production and Operations Management (POMS)
-, [pdf](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13738), [video](https://www.youtube.com/watch?v=1q8gW6LJ68A&t=17s&ab_channel=POMSociety))  
-**Hao Wang**, Zhenzhen Yan, Xiaohui Bei
+Real-Time Driver-Request Assignment in Ridesourcing ([pdf](https://ojs.aaai.org/index.php/AAAI/article/view/20299))  
+**Hao Wang**, Xiaohui Bei
+**AAAI 2022**: AAAI Conference on Artificial Intelligence, 2022
 
-**Wang, H.**, Bei, X. (2022). Real-Time Driver-Request Assignment in Ridesourcing. Proceedings of the AAAI
-Conference on Artificial Intelligence, 36(4), 3840-3849.
+A unified framework for community detection and network representation learning ([pdf](https://arxiv.org/pdf/1611.06645.pdf))
+Cunchao Tu, Xiangtian Zeng, **Hao Wang**, et al.  
+**TKDE**: IEEE Transactions on Knowledge and Data Engineering, 2018
 
-Tu C, Zeng X, **Wang H**, et al. A unified framework for community detection and network representation learning[J].
-IEEE Transactions on Knowledge and Data Engineering, 2018, 31(6): 1051-1065.
-
-Work in progress
+Working paper
 ======
 
+Sample-Based Online Generalized Assignment Problem with Unknown Poisson Arrivals ([pdf](https://arxiv.org/abs/2302.08234))  
+Zihao Li, **Hao Wang**, Zhenzhen Yan (alphabetical order)
 
-Strategical Waiting in Dynamic Stochastic Matching with Application in Ridesourcing
+A Distribution-free Algorithm for Fully Online Matching with Stochastic Arrivals and Departures
+([pdf](https://AnthonyWang14.github.io/files/main_OR.pdf))  
+Zihao Li, **Hao Wang**, Zhenzhen Yan (alphabetical order)
+Preliminary version appeared at AAAI 2023.
 
-Fully Online Matching with Stochastic Arrivals and Departures
-
-Re-solving in Online Matching with an Improved Non-asymptotic Analysis
 
 <!-- 
 {% if author.googlescholar %}
