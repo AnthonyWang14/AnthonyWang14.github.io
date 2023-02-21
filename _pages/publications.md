@@ -4,7 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Fully Online Matching with Stochastic Arrivals and Departures 
+
+Fully Online Matching with Stochastic Arrivals and Departures  
 Zihao Li, **Hao Wang**, Zhenzhen Yan (alphabetical order).  
 **AAAI2023**: AAAI Conference on Artificial Intelligence, 2023
 
