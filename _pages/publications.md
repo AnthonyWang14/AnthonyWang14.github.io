@@ -25,11 +25,13 @@ Working paper
 ======
 
 Sample-Based Online Generalized Assignment Problem with Unknown Poisson Arrivals ([pdf](https://arxiv.org/abs/2302.08234))  
-Zihao Li, **Hao Wang**, Zhenzhen Yan (alphabetical order).
+Zihao Li, **Hao Wang**, Zhenzhen Yan (alphabetical order).  
+Under Review at Economics and Computation (EC'23)
 
 A Distribution-free Algorithm for Fully Online Matching with Stochastic Arrivals and Departures
 ([pdf](https://AnthonyWang14.github.io/files/main_OR.pdf))  
 Zihao Li, **Hao Wang**, Zhenzhen Yan (alphabetical order).  
+In preparation.  
 Preliminary version appeared at AAAI 2023.
 
 
