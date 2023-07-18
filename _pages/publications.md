@@ -31,7 +31,7 @@ Under Review.
 A Distribution-free Algorithm for Fully Online Matching with Stochastic Arrivals and Departures
 ([pdf](https://AnthonyWang14.github.io/files/main_OR.pdf))  
 Zihao Li, **Hao Wang**, Zhenzhen Yan (alphabetical order).  
-In preparation.  
+Under Review at Operations Research.  
 Preliminary version appeared at AAAI 2023.
 
 Online Stochastic Generalized Assignment Problem with Demand Learning
