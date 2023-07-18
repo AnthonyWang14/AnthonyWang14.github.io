@@ -11,10 +11,10 @@ redirect_from:
 
 I am a research fellow in School of Physics and Mathematical Science (SPMS) at [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/), advised by Prof. Yan Zhenzhen. Prior to that, I completed my PhD at NTU, supervised by Prof. Xiaohui Bei, and graduated with B.E. in computer science and B.S. (double major) in economics at Tsinghua University. Here is my [CV](https://AnthonyWang14.github.io/files/HAOW_CV_08302022.pdf).
 
-My research interests include topics at the interface between operations research and computer science.  
+My research interests include topics at the interface between operations research and theoretical computer science.  
 Most recently, I have been studying problems in  
-Online Resource Allocation \& Online Learning \& Data-Driven Algorithms  
-Smart City Operations \& Ridesharing
+* Online Resource Allocation, Online Learning and Data-Driven Algorithms  
+* Smart City Operations and Ridesharing
 
 
 
