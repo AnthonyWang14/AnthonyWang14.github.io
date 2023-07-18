@@ -35,7 +35,7 @@ In preparation.
 Preliminary version appeared at AAAI 2023.
 
 Online Stochastic Generalized Assignment Problem with Demand Learning
-([pdf](https://AnthonyWang14.github.io/files/main_OR.pdf))  
+([pdf](https://AnthonyWang14.github.io/files/demand_learning.pdf), [supplement]((https://AnthonyWang14.github.io/files/supplement.pdf)))  
 Yanwen Li, Zihao Li, Limeng Liu, **Hao Wang**, Zhenzhen Yan (alphabetical order).  
 Under Review.
 
