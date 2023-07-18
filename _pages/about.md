@@ -13,8 +13,8 @@ I am a research fellow in School of Physics and Mathematical Science (SPMS) at [
 
 My research interests include topics at the interface between operations research and computer science.  
 Most recently, I have been studying problems in  
-Online Resource Allocation \& Online Learning \& Data-Driven Algorithms  
-Smart City Operations \& Ridesharing
+* Online Resource Allocation \& Online Learning \& Data-Driven Algorithms  
+* Smart City Operations \& Ridesharing
 
 
 
