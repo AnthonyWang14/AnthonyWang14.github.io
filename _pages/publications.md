@@ -26,7 +26,7 @@ Working paper
 
 Sample-Based Online Generalized Assignment Problem with Unknown Poisson Arrivals ([pdf](https://AnthonyWang14.github.io/files/samplebased.pdf))  
 Zihao Li, **Hao Wang**, Zhenzhen Yan (alphabetical order).  
-Under Review.
+Under Review at Management Science.
 
 A Distribution-free Algorithm for Fully Online Matching with Stochastic Arrivals and Departures
 ([pdf](https://AnthonyWang14.github.io/files/main_OR.pdf))  
