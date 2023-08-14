@@ -24,7 +24,7 @@ Cunchao Tu, Xiangtian Zeng, **Hao Wang**, et al.
 Working paper
 ======
 
-Sample-Based Online Generalized Assignment Problem with Unknown Poisson Arrivals ([pdf](https://arxiv.org/abs/2302.08234))  
+Sample-Based Online Generalized Assignment Problem with Unknown Poisson Arrivals ([pdf](https://AnthonyWang14.github.io/files/samplebased.pdf))  
 Zihao Li, **Hao Wang**, Zhenzhen Yan (alphabetical order).  
 Under Review.
 
