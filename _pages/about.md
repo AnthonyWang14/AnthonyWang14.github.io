@@ -20,6 +20,8 @@ Most recently, I have been studying problems in
 
 Contact: mrwang0917[at]gmail.com / hao_wang[at]ntu.edu.sg
 
+***I am on the 2023-2024 academic job market!***
+
 <!-- Publications 
 ======
 **Wang H**, Yan Z, Bei X. A Non-asymptotic Analysis for Re-solving Heuristic in online matching[J]. Production and
