@@ -27,12 +27,12 @@ Working paper
 A Distribution-free Algorithm for Fully Online Matching with Stochastic Arrivals and Departures
 ([pdf](https://AnthonyWang14.github.io/files/main_OR.pdf))  
 with Zihao Li, Zhenzhen Yan.  
-Under Major Revision at Operations Research.  
+Under Major Revision at **Operations Research**.  
 Preliminary version appeared at AAAI 2023.
 
 Sample-Based Online Generalized Assignment Problem with Unknown Poisson Arrivals ([pdf](https://AnthonyWang14.github.io/files/samplebased.pdf))  
 with Zihao Li, Zhenzhen Yan.  
-Under Review at Management Science.
+Under Review at **Management Science**.
 
 Online Stochastic Generalized Assignment Problem with Demand Learning
 ([pdf](https://AnthonyWang14.github.io/files/demand_learning.pdf), [supplement](https://AnthonyWang14.github.io/files/supplement.pdf))  
