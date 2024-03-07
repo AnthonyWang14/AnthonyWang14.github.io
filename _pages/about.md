@@ -18,7 +18,7 @@ Most recently, I have been studying problems in
 
 
 
-Contact: mrwang0917[at]gmail.com / hao_wang[at]ntu.edu.sg
+Contact: mrwang0917[at]gmail.com
 
 ***I am on the 2023-2024 academic job market!***
 
