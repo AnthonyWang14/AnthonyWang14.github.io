@@ -18,7 +18,7 @@ Most recently, I have been studying problems in
 
 ***If you are interested in these topics, please feel free to contact me!***
 
-Contact: haowangsom@ustc.edu.cn mrwang0917[at]gmail.com
+Contact: haowangsom[at]ustc.edu.cn mrwang0917[at]gmail.com
 
 
 
