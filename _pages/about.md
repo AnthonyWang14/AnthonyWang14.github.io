@@ -13,7 +13,7 @@ I am a non-tenured Associate Professor in School of Management, University of Sc
 
 My research interests include topics at the interface between operations research, computer science and economics.  
 Most recently, I have been studying problems in  
-* Online Resource Allocation, Online Learning and Data-Driven Algorithms with Application to Ridesharing, Revenue Management 
+* Online Resource Allocation, Online Learning and Data-Driven Algorithms
 * Large Language Model for Online Decision Making
 
 ***If you are interested in these topics, please feel free to contact me!***
