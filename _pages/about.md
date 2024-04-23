@@ -16,7 +16,7 @@ Most recently, I have been studying problems in
 * Online Resource Allocation, Online Learning and Data-Driven Algorithms with Application to Ridesharing, Revenue Management 
 * Large Language Model for Online Decision Making
 
-***If you are interested in working with me, please feel free to contact me!***
+***If you are interested in these topics, please feel free to contact me!***
 
 Contact: haowangsom@ustc.edu.cn mrwang0917[at]gmail.com
 
