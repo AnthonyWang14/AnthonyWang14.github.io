@@ -9,18 +9,18 @@ redirect_from:
 ---
 
 
-I am a research fellow in School of Physics and Mathematical Science (SPMS) at [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/), advised by Prof. Zhenzhen Yan. Prior to that, I completed my Ph.D. at NTU, supervised by Prof. Xiaohui Bei, and graduated with B.E. in computer science and B.S. (double major) in economics at Tsinghua University. Here is my [CV](https://AnthonyWang14.github.io/files/HAOW_CV_Oct.pdf).
+I am a non-tenured Associate Professor in School of Management, University of Science and Technology in China. Before that, I was a research fellow in School of Physics and Mathematical Science (SPMS) at [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/), advised by Prof. Zhenzhen Yan. Prior to that, I completed my Ph.D. at NTU, supervised by Prof. Xiaohui Bei, and graduated with B.E. in computer science and B.S. (double major) in economics at Tsinghua University. Here is my [CV](https://AnthonyWang14.github.io/files/HAOW_CV_Oct.pdf).
 
-My research interests include topics at the interface between operations research and computer science.  
+My research interests include topics at the interface between operations research, computer science and economics.  
 Most recently, I have been studying problems in  
-* Online Resource Allocation, Online Learning and Data-Driven Algorithms  
-* Smart City Operations and Ridesharing
+* Online Resource Allocation, Online Learning and Data-Driven Algorithms with Application to Ridesharing, Revenue Management 
+* Large Language Model for Online Decision Making
+
+***If you are interested in working with me, please feel free to contact me!***
+
+Contact: haowangsom@ustc.edu.cn mrwang0917[at]gmail.com
 
 
-
-Contact: mrwang0917[at]gmail.com
-
-***I am on the 2023-2024 academic job market!***
 
 <!-- Publications 
 ======
