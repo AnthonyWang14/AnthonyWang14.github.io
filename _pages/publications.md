@@ -7,7 +7,7 @@ author_profile: true
 Fully Online Matching with General Stochastic Arrivals and Departures
 ([pdf](https://AnthonyWang14.github.io/files/main_OR.pdf))  
 with Zihao Li, Zhenzhen Yan.  
-Under Major Revision at **Operations Research**.  
+Accepted by **Operations Research**.  
 Preliminary version appeared at AAAI 2023.
 
 A Non-asymptotic Analysis for Re-solving Heuristic in online matching ([pdf](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13738), [video](https://www.youtube.com/watch?v=1q8gW6LJ68A&t=17s&ab_channel=POMSociety))  
