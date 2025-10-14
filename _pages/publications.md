@@ -4,10 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-Fully Online Matching with Stochastic Arrivals and Departures([pdf](https://ojs.aaai.org/index.php/AAAI/article/view/26417))  
+Fully Online Matching with General Stochastic Arrivals and Departures
+([pdf](https://AnthonyWang14.github.io/files/main_OR.pdf))  
 with Zihao Li, Zhenzhen Yan.  
-**AAAI2023**: AAAI Conference on Artificial Intelligence, 2023.
+Under Major Revision at **Operations Research**.  
+Preliminary version appeared at AAAI 2023.
 
 A Non-asymptotic Analysis for Re-solving Heuristic in online matching ([pdf](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13738), [video](https://www.youtube.com/watch?v=1q8gW6LJ68A&t=17s&ab_channel=POMSociety))  
 with Zhenzhen Yan, Xiaohui Bei.  
@@ -23,12 +24,6 @@ with Cunchao Tu, Xiangtian Zeng, et al.
 
 Working paper
 ======
-
-A Distribution-free Algorithm for Fully Online Matching with Stochastic Arrivals and Departures
-([pdf](https://AnthonyWang14.github.io/files/main_OR.pdf))  
-with Zihao Li, Zhenzhen Yan.  
-Under Major Revision at **Operations Research**.  
-Preliminary version appeared at AAAI 2023.
 
 Sample-Based Online Generalized Assignment Problem with Unknown Poisson Arrivals ([pdf](https://AnthonyWang14.github.io/files/samplebased.pdf))  
 with Zihao Li, Zhenzhen Yan.  
