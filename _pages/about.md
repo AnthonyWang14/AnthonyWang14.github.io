@@ -18,6 +18,9 @@ Most recently, I have been studying problems in
 
 ***If you are interested in these topics, please feel free to contact me!***
 
+***News***
+Our paper ``Fully Online Matching with General Stochastic Arrivals and Departures'' is accepted by Operations Research!
+
 Contact: haowangsom[at]ustc.edu.cn mrwang0917[at]gmail.com
 
 
