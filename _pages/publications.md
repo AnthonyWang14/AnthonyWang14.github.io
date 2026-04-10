@@ -4,44 +4,30 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Fully Online Matching with General Stochastic Arrivals and Departures
-([pdf](https://AnthonyWang14.github.io/files/main_OR.pdf))  
-with Zihao Li, Zhenzhen Yan.  
-Accepted by **Operations Research**.  
-Preliminary version appeared at AAAI 2023.
+## Journal and Conference Papers
 
-A Non-asymptotic Analysis for Re-solving Heuristic in online matching ([pdf](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13738), [video](https://www.youtube.com/watch?v=1q8gW6LJ68A&t=17s&ab_channel=POMSociety))  
-with Zhenzhen Yan, Xiaohui Bei.  
-**POMS**: Production and Operations Management, 31(8): 3096-3124. 2022.
+* **Fully Online Matching with General Stochastic Arrivals and Departures** ([PDF](/files/main_OR.pdf))  
+  with Zihao Li and Zhenzhen Yan.  
+  Accepted by *Operations Research*. Preliminary version appeared at AAAI 2023.
 
-Real-Time Driver-Request Assignment in Ridesourcing ([pdf](https://ojs.aaai.org/index.php/AAAI/article/view/20299))  
-with Xiaohui Bei.   
-**AAAI2022**: AAAI Conference on Artificial Intelligence, 2022.
+* **A Non-asymptotic Analysis for Re-solving Heuristic in Online Matching** ([PDF](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13738), [Video](https://www.youtube.com/watch?v=1q8gW6LJ68A&t=17s&ab_channel=POMSociety))  
+  with Zhenzhen Yan and Xiaohui Bei.  
+  *Production and Operations Management*, 31(8): 3096-3124, 2022.
 
-A unified framework for community detection and network representation learning ([pdf](https://arxiv.org/pdf/1611.06645.pdf))  
-with Cunchao Tu, Xiangtian Zeng, et al.  
-**TKDE**: IEEE Transactions on Knowledge and Data Engineering, 2018.
+* **Real-Time Driver-Request Assignment in Ridesourcing** ([PDF](https://ojs.aaai.org/index.php/AAAI/article/view/20299))  
+  with Xiaohui Bei.  
+  *Proceedings of the AAAI Conference on Artificial Intelligence*, 2022.
 
-Working paper
-======
+* **A Unified Framework for Community Detection and Network Representation Learning** ([PDF](https://arxiv.org/pdf/1611.06645.pdf))  
+  with Cunchao Tu, Xiangtian Zeng, et al.  
+  *IEEE Transactions on Knowledge and Data Engineering*, 2018.
 
-Sample-Based Online Generalized Assignment Problem with Unknown Poisson Arrivals ([pdf](https://AnthonyWang14.github.io/files/samplebased.pdf))  
-with Zihao Li, Zhenzhen Yan.  
-Under Review at **Management Science**.
+## Working Papers
 
-Online Stochastic Generalized Assignment Problem with Demand Learning
-([pdf](https://AnthonyWang14.github.io/files/demand_learning.pdf), [supplement](https://AnthonyWang14.github.io/files/supplement.pdf))  
-with Yanwen Li, Zihao Li, Limeng Liu, Zhenzhen Yan.  
-Under Review.
+* **Sample-Based Online Generalized Assignment Problem with Unknown Poisson Arrivals** ([PDF](/files/samplebased.pdf))  
+  with Zihao Li and Zhenzhen Yan.  
+  Under review at *Management Science*.
 
-
-<!-- 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
+* **Online Stochastic Generalized Assignment Problem with Demand Learning** ([PDF](/files/demand_learning.pdf), [Supplement](/files/supplement.pdf))  
+  with Yanwen Li, Zihao Li, Limeng Liu, and Zhenzhen Yan.  
+  Under review.
