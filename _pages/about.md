@@ -1,20 +1,21 @@
 ---
 permalink: /
 title: "Hao Wang"
-excerpt: "Associate Professor, School of Management, USTC"
+excerpt: "Non-tenured Associate Professor, School of Management, USTC"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am an Associate Professor in the School of Management at the University of Science and Technology of China (USTC). Previously, I was a research fellow at the School of Physical and Mathematical Sciences, [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/), where I worked with Prof. Zhenzhen Yan. I received my Ph.D. from NTU under the supervision of Prof. Xiaohui Bei, and my B.E. in Computer Science together with a B.S. in Economics from Tsinghua University.
+I am a Non-tenured Associate Professor in the School of Management at the University of Science and Technology of China (USTC). Previously, I was a research fellow at the School of Physical and Mathematical Sciences, [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/), where I worked with Prof. Zhenzhen Yan. I received my Ph.D. from NTU under the supervision of Prof. Xiaohui Bei, and my B.E. in Computer Science together with a B.S. in Economics from Tsinghua University.
 
-My research lies at the interface of operations research, computer science, and economics. I am broadly interested in:
+My research focuses primarily on designing data-driven algorithms with provable performance guarantees for online resource allocation under uncertainty.
+Recently, I have been particularly interested in the following topics.
 
-* online resource allocation and matching
-* online learning and data-driven algorithms
-* large language models for online decision-making
+* **Theoretical Foundations of Online Resource Allocation**
+* **Online Resource Allocation for and with LLMs**
+* **Data-Driven and Explainable Online Resource Allocation in Healthcare**
 
 Recent update:
 
